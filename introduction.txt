@@ -1,0 +1,2 @@
+Hello! My name is Treasure Iduate Bank. I am currently learning Git and GitHu to improve my version control skills aand collaborate effectively on software projects.
+I enjoy coding and exploring new technologies. Creating this repository is my first step towards building a strong portfolio on GitHub. I'm excited to continue learning and contributing to open-source projects in the future.
